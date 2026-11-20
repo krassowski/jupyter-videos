@@ -112,18 +112,17 @@ No narration.
 
 - 3:57.8 The point 7 releases are available for testing.
 - 4:01.4 Thank you to the contributors, reviewers, and everyone who tested the betas and reported issues.
-- 4:08.6 Noticed something is missing?
 
 ## 4:11 AI, when you want it
 
-- 4:11.6 Yes, Jupyter does not force AI on anyone: these releases work without it.
+- 4:11.6 One more thing: to add AI features to JupyterLab, install the optional jupyter-ai or jupyterlite-ai packages alongside JupyterLab
 
 ## 4:18 Jupyter AI Lite: A local model next to your notebook
 
 - 4:20.1 When you want AI, extensions bring assistants and agents, with the model of your choice,
 - 4:26.6 including one that runs on your own machine, through a local API.
 - 4:31.2 A cell fails? Ask about it, and put the answer straight back into the notebook.
-- 4:38.6 The question and the answer stay on this machine.
+- 4:38.6 When using a local model, the question and the answer stay on this machine.
 
 ## 4:57 Get started with AI in Jupyter
 
